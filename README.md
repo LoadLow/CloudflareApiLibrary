@@ -43,7 +43,7 @@ try {
 - Trust/Block/Unlist IP Address
 - Modify Minify Level (JS, HTML, CSS)
 - Change RocketLoader Status(Off, Automatic, Manual)
-- Edt Security Level(UnderAttack, Hight, Medium, Low, Essenssialy off)
+- Edit Security Level(UnderAttack, Hight, Medium, Low, Essentialy off)
 - Purge cache and purge a specified file from cache
 - Toggle Always Online status
 - Toggle Development mode 
