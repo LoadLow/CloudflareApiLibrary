@@ -2,8 +2,8 @@ CloudflareApiLibrary
 ====================
 
 Use Cloudflare API in Java
-Documentation of API : http://www.cloudflare.com/docs/client-api.html
-Documentation of my Lib : http://loadlow.github.io/CloudflareApiLibrary/
+- Documentation of API : http://www.cloudflare.com/docs/client-api.html
+- Documentation of my Lib : http://loadlow.github.io/CloudflareApiLibrary/
 
 `````
   This lib allows you to use easier and faster the CloudflareAPI.
