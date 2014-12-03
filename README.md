@@ -10,7 +10,7 @@ Use Cloudflare API in Java
   (Used libs like ApacheHTTP, JSON... are in the "lib" folder)
 `````
 
-<h4>Exemple using requests :</h4>
+<h4>Example using requests :</h4>
 (All CloudflareRequests are in the "com.cloudflare.api.requests" package)
 `````java
 CloudflareAccess access = new CloudflareAccess(
