@@ -6,6 +6,14 @@ package com.cloudflare.api.results;
  */
 public enum CloudflareErrorEnum {
 
+    UNKNOWN_ERROR {
+    	
+        @Override
+        public CloudflareError getException(String msg) {
+            return new CloudflareError(this.name(), "Cannot execute request", msg);
+        }
+    },
+
     E_UNAUTH {
         @Override
         public CloudflareError getException(String msg) {
